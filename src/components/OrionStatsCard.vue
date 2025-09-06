@@ -133,15 +133,7 @@ const technologies = ref<Technology[]>([
     experienceLevel: 50,
     icon: '💚'
   },
-  {
-    id: 'react',
-    name: 'React',
-    category: 'framework',
-    categoryLabel: 'Framework Frontend',
-    experience: 'Expérience confirmée',
-    experienceLevel: 85,
-    icon: '⚛️'
-  },
+  
   {
     id: 'postgres',
     name: 'PostgreSQL',
